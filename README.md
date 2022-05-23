@@ -1,1 +1,1 @@
-"# Bagger's Notebook" 
+# Bagger's Notebook
